@@ -1,0 +1,16 @@
+{
+  "name": "telegram-bot-game",
+  "version": "1.0.0",
+  "description": "A simple Telegram bot game using Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Dwarkesh",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "node-telegram-bot-api": "^0.57.0",
+    "sqlite3": "^5.0.2"
+  }
+}
